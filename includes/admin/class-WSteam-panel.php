@@ -42,7 +42,7 @@ class Panel_edit  {
 	<p class="text-content">
 	'.$words.'
 	<br><br>
-	 <a href="yerib.com" class="event-title" target="_blank">'.$createdby.'</a>
+	 <a href="https://yerib.com/" class="event-title" target="_blank">'.$createdby.'</a>
 	  </p>	
 	  <!-- created by H.T -->
 				</div>';
