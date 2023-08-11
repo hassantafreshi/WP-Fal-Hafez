@@ -6,7 +6,7 @@
 
 <div align="center">
     Fal Hafez Shirazi  created by
-    <a href="https://yerib.com/hafez">
+    <a href="https://yerib.com/wp-plugins/hafez">
        Yerib
     </a>
 </div>
