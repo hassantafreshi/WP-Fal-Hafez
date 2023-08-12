@@ -1,4 +1,4 @@
-===Fal Hafez ===
+=== Hafez ===
 Contributors:  hassantafreshi, mrlast
 Tags: hafez, falehafez, حافظ, فال حافظ, 
 Stable tag: 0.0.1
