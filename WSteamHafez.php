@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Hafez
+Plugin Name: Fal Hafez
 Plugin URI: https://yerib.com/wp-plugin/hafez/
 Description: The Hafez Poetry Randomizer is a delightful WordPress plugin that brings the enchanting world of Hafez's poetry to your website. With just a simple shortcode, you can easily display random verses of Hafez's timeless poetry to your visitors, adding a touch of cultural elegance to your site's content.
 Version: 0.0.1

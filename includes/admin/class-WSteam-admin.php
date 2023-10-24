@@ -38,7 +38,7 @@ class Admin {
     
 
         if (is_admin()) {
-            // برای نوشتن انواع اکشن مربوط به حذف و اضافه اینجا انجام شود
+        
 
             if (!function_exists('get_plugin_data')) {
                 require_once(ABSPATH . 'wp-admin/includes/plugin.php');

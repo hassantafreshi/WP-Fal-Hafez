@@ -1,9 +1,9 @@
-=== Hafez ===
+=== Fal Hafez ===
 Contributors:  hassantafreshi, mrlast
 Tags: hafez, falehafez, حافظ, فال حافظ, 
 Stable tag: 0.0.1
 Requires at least: 4.7.0
-Tested up to: 6.3.0
+Tested up to: 6.3.2
 Requires PHP: 5.4 or higher
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -12,6 +12,9 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
 **Hafez Poetry Randomizer Plugin**
 The Hafez Poetry Randomizer is a delightful WordPress plugin that brings the enchanting world of Hafez's poetry to your website. With just a simple shortcode, you can easily display random verses of Hafez's timeless poetry to your visitors, adding a touch of cultural elegance to your site's content.
+
+**About Hafez**
+Hafez, whose full name is Shams-ud-Din Muhammad Hafez, was a 14th-century Persian poet renowned for his mystical and lyrically beautiful poetry. Born in Shiraz, Iran, Hafez is often referred to as the "Tongue of the Hidden" due to his ability to convey deep spiritual and philosophical insights through his verses. His poetry, collected in the Divan-e-Hafez, remains an enduring treasure of Persian literature and Sufi mysticism. Hafez's works explore themes of love, spirituality, fate, and the human condition, and his ghazals (lyric poems) continue to inspire and resonate with people around the world, transcending time and culture. His verses are celebrated for their profound wisdom and the way they capture the essence of human emotions and the divine in a unique and enchanting manner.
 
 **Features**
 

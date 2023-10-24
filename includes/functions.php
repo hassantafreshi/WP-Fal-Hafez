@@ -23,7 +23,7 @@ class efbFunction {
     }
 
 	function test_call_efb(){
-		//error_log('test functions Coll Done!');
+	
 
 		
 	}

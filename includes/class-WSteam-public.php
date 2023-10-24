@@ -49,31 +49,14 @@ class _Public {
 		$table_name = $this->db->prefix . "hafez_";
 		$this->value = $this->db->get_results( "SELECT * FROM `$table_name` ORDER BY RAND() LIMIT 1" );
 		$content = $this->value[0]->content;
-		//$content = $this->value[0]->content;
-		//$content=str_replace('"', '\"', $this->value[0]->content);
-		/* error_log(gettype($content));
-		error_log($content); */
-		error_log($this->value[0]->content);
-		/* $content ="<!-- start hafez --!>";
-		$content += '<div class="">'.$this->value[0]->content . '</div></br>';
-		$content +="<!-- start hafez --!>"; */
 		return $content;
 
 	}
 	public function hafez_poem_fun($id){
-		//error_log(js);
 		$table_name = $this->db->prefix . "hafez_";
 		$id_= end($id);
 		$this->value = $this->db->get_results( "SELECT * FROM `$table_name` where omen_id = $id_" );
 		$content = $this->value[0]->content;
-		//$content = $this->value[0]->content;
-		//$content=str_replace('"', '\"', $this->value[0]->content);
-		/* error_log(gettype($content));
-		error_log($content); */
-	
-		/* $content ="<!-- start hafez --!>";
-		$content += '<div class="">'.$this->value[0]->content . '</div></br>';
-		$content +="<!-- start hafez --!>"; */
 		return $content;
 
 	}
